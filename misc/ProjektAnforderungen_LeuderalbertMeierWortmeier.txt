@@ -1,0 +1,27 @@
+Gruppenmitglieder 
+Janek Leuderalbert
+Christoph Meier
+Jan Wortmeier
+
+Die SchrottMobil Autowerkstadt GmbH ist ein Mittelst�ndiges Unternehmen mit 15 Mitarbeitern. Sie führt reparaturabeiten
+an Automobielen sowie Kleinkrafträdern und hat sich in im Speziellen auf Oldtimer spetzialisiert.
+
+Ist Zustand:
+Die SchrottMobil Autowerkstadt GmbH dokumentiert derzeit alle Geschäftsprozesse auf Papier.
+
+Soll Prognose:
+Die SchrottMobil Autowerkstadt GmbH möchte beginnen ihre Geschäftsabläufe digital abzubilden. Im ersten
+Entwicklungsschritt sollen dazu Aufträge, Kunden, Mitarbeiter sowie dazugehörige Autos und Arbeitsplätze
+erfasst werden.
+Au�erdem sollen Ersatzteile und, falls relevant, deren Bestand und Ort im Lager abgebildet werden. 
+Bis auf die Erfassung der Mitarbeiter bezüglich ihrer zugeteilten Aufträge sollen keine Personalbezogenen Daten erfasst werden.
+Die Erstellung und Bearbeitung von Rechnungen sowie Gew�hrleistungen und Angeboten soll vorerst ebenfalls weiterhin auf Papier 
+erfolgen und nicht abgebildet werden.
+
+Wenn ein Kunde mit einem Problem an seinem KFZ in die Werkstatt kommt, soll hierf�r ein Werkstattauftrag digital erstellt werden.
+Dazu wird ein Auftrag erstellt und das zugeh�rige KFZ, sowie die einzelnen Auftragspositionen erfasst.
+Diese Enthalten jeweils zust�ndige Mitarbeiter sowie Arbeitsplätze und Ersatzteile sowie deren Lagerplätze.
+Wenn alle Auftragspositionen erledigt sind soll der Auftragsstatus automatisch auf erledigt gesetzt werden.
+Einhaltung von Terminen sowie Kostenkalkulation soll nicht erfolgen und die Datenbank soll mit einer Verwaltungssoftware 
+genuzt werden über die Artikel, Lagerplätze, Kunden, Mitarbeiter, KFZ sowie Arbeitsplätze gepflegt und Aufträge mit ihren Positionen
+erstellt werden.

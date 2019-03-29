@@ -37,4 +37,4 @@ VALUES (6, 3);
 
 INSERT INTO OrderItem_X_Article
   (OrderItemID, ArticleID)
-VALUES (8, 1);
+VALUES (7, 1);

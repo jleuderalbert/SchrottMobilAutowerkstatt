@@ -14,23 +14,27 @@ CREATE TABLE Stock
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, ItemCount)
-VALUES (2, 2, 2);
+VALUES (1, 2, 2);
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, ItemCount)
-VALUES (3, 7, 1);
+VALUES (2, 7, 1);
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, ItemCount)
-VALUES (4, 7, 8);
+VALUES (3, 7, 8);
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, Itemcount)
-VALUES (5, 5, 5);
+VALUES (4, 5, 5);
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, ItemCount)
-VALUES (6, 7, 10);
+VALUES (5, 7, 10);
+
+INSERT INTO Stock
+  (ArticleID, StorageAreaID, ItemCount)
+VALUES (6, 6, 5);
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, ItemCount)
@@ -38,12 +42,8 @@ VALUES (7, 6, 5);
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, ItemCount)
-VALUES (8, 6, 5);
+VALUES (8, 7, 2);
 
 INSERT INTO Stock
   (ArticleID, StorageAreaID, ItemCount)
-VALUES (9, 7, 2);
-
-INSERT INTO Stock
-  (ArticleID, StorageAreaID, ItemCount)
-VALUES (10, 8, 4);
+VALUES (9, 8, 4);

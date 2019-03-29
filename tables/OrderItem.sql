@@ -34,12 +34,12 @@ VALUES (2, 3, 4, 3, 'Lenkrad Tauschen');
 
 INSERT INTO OrderItem
   (RepairOrderID, EmployeeID, WorkstationID, StatusID, Task)
-VALUES (3, 4, 2, 1, 'Neuen Sitz Montieren');
+VALUES (3, 2, 2, 1, 'Neuen Sitz Montieren');
 
 INSERT INTO OrderItem
   (RepairOrderID, EmployeeID, WorkstationID, StatusID, Task)
-VALUES (3, 4, 2, 4, 'Reifen Wechseln');
+VALUES (3, 3, 2, 1, 'Reifen Wechseln');
 
 INSERT INTO OrderItem
   (RepairOrderID, EmployeeID, WorkstationID, StatusID, Task)
-VALUES (4, 2, 3, 3, 'Vergaser Tauschen');
+VALUES (3, 2, 3, 3, 'Vergaser Tauschen');

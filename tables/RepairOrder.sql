@@ -15,12 +15,12 @@ CREATE TABLE RepairOrder
 
 INSERT INTO RepairOrder
   (MotorVehicleID, CustomerID, StatusID)
-VALUES (2, 2, 1);
+VALUES (2, 1, 1);
 
 INSERT INTO RepairOrder
   (MotorVehicleID, CustomerID, StatusID)
-VALUES (3, 3, 1);
+VALUES (3, 2, 1);
 
 INSERT INTO RepairOrder
   (MotorVehicleID, CustomerID, StatusID)
-VALUES (4, 4, 1);
+VALUES (4, 3, 1);

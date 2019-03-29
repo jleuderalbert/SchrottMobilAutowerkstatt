@@ -34,7 +34,7 @@ VALUES ('OEM Standard', 'Braun', 'Lenkrad', 'BMW3er');
 
 INSERT INTO Article
   (Name, Color, Type, VehicleType)
-VALUES ('OEM Standard', 'N/A', 'Zylinderkopf', 'OpelKadett'1);
+VALUES ('OEM Standard', 'N/A', 'Zylinderkopf', 'OpelKadett');
 
 INSERT INTO Article
   (Name, Color, Type, VehicleType)

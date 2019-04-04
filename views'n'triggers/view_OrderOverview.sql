@@ -3,7 +3,7 @@ DROP VIEW IF EXISTS OrderOverview;
 
 CREATE VIEW OrderOverview AS (
   SELECT RepairOrder.ID                                 AS 'OrderNumber',
-         S.Name                                         AS 'Status',
+         S.Name                                         AS 'OrderStatus',
          MV.Model                                       AS 'VehicleModel',
          MV.VIN                                         AS 'VehicleVIN',
          MV.LicencePlate                                AS 'VehicleLicencePlate',
